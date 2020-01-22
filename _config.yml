@@ -1,0 +1,15 @@
+name: simple-srd
+short_name: simple-srd
+#theme_name: light
+collections:
+  docs:
+    output: true
+plugins:
+  - jekyll-seo-tag
+remote_theme: non-binary-trees/simple-srd-core
+defaults:
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
