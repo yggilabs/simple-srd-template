@@ -6,9 +6,8 @@ collections:
     output: true
 plugins:
   - jekyll-seo-tag
-remote_theme: 
-  - non-binary-trees/simple-srd-core
-  - yggilabs/simple-srd-theme-gbm
+remote_theme: non-binary-trees/simple-srd-core
+#yggilabs/simple-srd-theme-gbm
 defaults:
   - scope:
       path: ""
